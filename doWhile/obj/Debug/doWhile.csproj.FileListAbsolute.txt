@@ -1,0 +1,14 @@
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\doWhile\doWhile\bin\Debug\doWhile.exe.config
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\doWhile\doWhile\bin\Debug\doWhile.exe
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\doWhile\doWhile\bin\Debug\doWhile.pdb
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\doWhile\doWhile\obj\Debug\doWhile.csprojAssemblyReference.cache
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\doWhile\doWhile\obj\Debug\doWhile.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\doWhile\doWhile\obj\Debug\doWhile.exe
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\doWhile\doWhile\obj\Debug\doWhile.pdb
+C:\Users\dcice\Downloads\OneDrive-2020-07-06\Aulas de Programação\doWhile\doWhile\bin\Debug\doWhile.exe.config
+C:\Users\dcice\Downloads\OneDrive-2020-07-06\Aulas de Programação\doWhile\doWhile\bin\Debug\doWhile.exe
+C:\Users\dcice\Downloads\OneDrive-2020-07-06\Aulas de Programação\doWhile\doWhile\bin\Debug\doWhile.pdb
+C:\Users\dcice\Downloads\OneDrive-2020-07-06\Aulas de Programação\doWhile\doWhile\obj\Debug\doWhile.csprojAssemblyReference.cache
+C:\Users\dcice\Downloads\OneDrive-2020-07-06\Aulas de Programação\doWhile\doWhile\obj\Debug\doWhile.csproj.CoreCompileInputs.cache
+C:\Users\dcice\Downloads\OneDrive-2020-07-06\Aulas de Programação\doWhile\doWhile\obj\Debug\doWhile.exe
+C:\Users\dcice\Downloads\OneDrive-2020-07-06\Aulas de Programação\doWhile\doWhile\obj\Debug\doWhile.pdb
